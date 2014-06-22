@@ -62,5 +62,5 @@ To improve the desciptive names, all "." were removed from the variable names us
 The merged data was melted. SubjectID, ActivityID and Activity are identifier variables.
 The tidy data set with the average of each variable for each activity and subject was created by dcasting the melted data. 
 
-The tidy data set is exported to tidyDataSet.csv in the working directory.
+The tidy data set is exported to tidyDataSet.txt in the working directory.
 
